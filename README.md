@@ -1,6 +1,7 @@
+![MasterHead](https://github.com/milankumarjha/milankumarjha/blob/main/github-header-banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Milan Kumar Jha</h1>
 <h3 align="center">Computer Science Undergrad | Cyber Security Enthusiast</h3>
-
+<img align="right" width="400" src="https://github.com/milankumarjha/milankumarjha/blob/main/Github-profile-GIF.gif?raw=true">
 <p align="left"> <a href="https://twitter.com/milan_kumar07" target="blank"><img src="https://img.shields.io/twitter/follow/milan_kumar07?logo=twitter&style=for-the-badge" alt="milan_kumar07" /></a> </p>
 
 - 🌱 I’m currently exploring new cyber tools **Metasploit,Wireshark,NMAP etc.**
